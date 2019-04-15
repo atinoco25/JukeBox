@@ -1,0 +1,18 @@
+//File name: JukeboxStyle.css
+
+.root{
+	-fx-background-color: linear-gradient(#e66465, #9198e5);
+}
+
+.label{
+	-fx-text-fill: blue;
+	-fx-font-size: 12pt;
+	-fx-font-family: monospaced;
+	-fx-font-weight: bold
+}
+
+.button{
+	-fx-background-color: green;
+	-fx-background-radius: 15;
+	-fx-text-fill: orange;
+}
